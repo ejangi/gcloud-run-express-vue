@@ -2,7 +2,7 @@
 
 > Nuxt.js App running on Google Cloud Run
 
-[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/ejangi/gcloud-run-express-vue.git)
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 

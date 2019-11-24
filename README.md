@@ -65,7 +65,7 @@ yarn global add create-nuxt-app
 
 ``` bash
 cd ../
-yarn create-nuxt-app app
+yarn create nuxt-app app
 ```
 
 ### 5. Update `Dockerfile` for production and `docker-compose.yml` for dev

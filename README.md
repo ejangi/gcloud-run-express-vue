@@ -50,7 +50,7 @@ services:
 ### 2. Run the container and get bash prompt
 
 ``` bash
-docker-compose exec app bash
+docker-compose run app bash
 ```
 
 ### 3. Install dependencies
